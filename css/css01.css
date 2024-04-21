@@ -15,6 +15,10 @@ body {
   font-family: "Fredoka One", cursive;
   color: white;
 }
+@media all and (max-width: 320px) {
+   body {
+      background: #e7e7e7;
+   }
 .img_banner_hpbd { 
   background-image: url("../img/3d28ae425248a05544665dd53400f52e.jpg");
   background-repeat: no-repeat;
